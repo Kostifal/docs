@@ -10,11 +10,11 @@ versions:
   ghec: '*'
 topics:
   - Marketplace
-children:
+children:#/*doin'*/
   - /github-marketplace-overview
   - /creating-apps-for-github-marketplace
   - /using-the-github-marketplace-api-in-your-app
   - /listing-an-app-on-github-marketplace
   - /selling-your-app-on-github-marketplace
----
+  - support RP43
 
